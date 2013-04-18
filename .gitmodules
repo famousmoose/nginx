@@ -1,0 +1,3 @@
+[submodule "debian/modules/nginx-mogilefs"]
+	path = debian/modules/nginx-mogilefs
+	url = git://github.com/vkholodkov/nginx-mogilefs-module.git

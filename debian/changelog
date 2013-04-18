@@ -159,6 +159,14 @@ nginx (1.4.0-2) experimental; urgency=low
 
  -- Kartik Mistry <kartik@debian.org>  Wed, 01 May 2013 10:48:43 +0530
 
+nginx (1.4.0-1we71) precise; urgency=low
+
+  * Rebase our internal package on the debian git repo
+  * Add mogilefs module 
+  * Add infrastructure to build the -we7 package
+
+ -- tristan <tristan@haemon.we7.local>  Thu, 18 Apr 2013 13:32:18 +0100
+
 nginx (1.4.0-1) experimental; urgency=low
 
   [ Kartik Mistry ]

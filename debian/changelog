@@ -112,6 +112,13 @@ nginx (1.4.1-2) unstable; urgency=medium
 
  -- Kartik Mistry <kartik@debian.org>  Thu, 06 Jun 2013 12:55:23 +0530
 
+nginx (1.4.1-1we7) precise; urgency=low
+
+  * Import security fix from 1.4.1, will rebase on debian 1.4.1 
+    once they push it
+
+ -- tristan <tristan@haemon.we7.local>  Tue, 07 May 2013 14:25:53 +0100
+
 nginx (1.4.1-1) unstable; urgency=low
 
   * New upstream release:

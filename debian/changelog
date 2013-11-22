@@ -1,3 +1,9 @@
+nginx (1.4.4-1bbm1) precise; urgency=low
+
+  * Rebase against debian 1.4.4-1 
+
+ -- stuart <stuart@daedalus.we7.local>  Fri, 22 Nov 2013 10:38:22 +0000
+
 nginx (1.4.4-1) unstable; urgency=low
 
   [ Christos Trochalakis ]

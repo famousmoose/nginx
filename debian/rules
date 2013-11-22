@@ -188,7 +188,7 @@ config.status.naxsi: config.env.naxsi
 	    $(CONFIGURE_OPTS) >$@
 	touch $@
 
-config.status.we7: config.env.we7 config.sub config.guess
+config.status.we7: config.env.we7
 	cd $(BUILDDIR_we7) && CFLAGS="$(CFLAGS)" CORE_LINK="$(LDFLAGS)" ./configure  \
 	    --prefix=/usr/share/nginx \
 	    --conf-path=/etc/nginx/nginx.conf \
